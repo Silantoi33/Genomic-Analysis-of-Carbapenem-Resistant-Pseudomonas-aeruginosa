@@ -2,7 +2,7 @@
 #Authors: Silantoi & Kevin
 #Date: 27/11/2023
 #Modified Date: 07/12/2023
-Script name:gacrpa_mlst.sh
+#Script name:gacrpa_mlst.sh
 #Usage: bash script name
 #Description: For loop bash script to identify the multi locus sequence type (MLST)
 
